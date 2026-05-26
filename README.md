@@ -2,10 +2,16 @@
 
 I am following the series Ray Tracing in One Weekend and decided to document my preocess every step of the way.
 
-## How to run 
-```shell
+## Build
+
+```bash
 mkdir build
 cmake -B build
 cmake --build build
-build/inOneWeekend > image.ppm
+```
+
+## Run
+
+```bash
+./build/inOneWeekend > image.ppm
 ```
