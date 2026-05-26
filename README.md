@@ -5,6 +5,6 @@ I am following the series Ray Tracing in One Weekend and decided to document my 
 ## How to run 
 ```shell
 mkdir build
-cmake --build build
+cmake -B build
 build/inOneWeekend > image.ppm
 ```
