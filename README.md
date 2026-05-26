@@ -4,7 +4,7 @@ I am following the series Ray Tracing in One Weekend and decided to document my 
 
 ## How to run 
 ```shell
-mkdir -B build
-cmake --build buid
+mkdir build
+cmake --build build
 build/inOneWeekend > image.ppm
 ```
