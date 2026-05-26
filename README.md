@@ -1,6 +1,6 @@
 # Building a Ray Tracer
 
-I am following the series Ray Tracing in One Weekend and decided to document my preocess every step of the way.
+I am following the series Ray Tracing in One Weekend and decided to document my proecess every step of the way.
 
 ## Build
 
